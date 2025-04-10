@@ -1,7 +1,3 @@
-Here's a complete and professional `README.md` write-up for your `table()` helper function in Laravel:
-
----
-
 # 🔍 Laravel `table()` Helper  
 A clean and modern replacement for `dd()` when working with tabular data in Laravel. This custom helper formats your arrays, collections, and paginated data into a searchable, toggleable HTML table — right in your browser.
 
@@ -19,8 +15,7 @@ A clean and modern replacement for `dd()` when working with tabular data in Lara
 
 ## 📦 Installation
 
-Simply copy the function from the code below or from this link:  
-📎 [`table()` Helper Code](https://codefile.io/f/gNAvo30ZeN)
+Simply copy the function from the table.php file in the repository:  
 
 Place it inside your `app/helpers.php` file or any custom helper file you load in `composer.json`:
 
