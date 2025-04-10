@@ -15,7 +15,7 @@ A clean and modern replacement for `dd()` when working with tabular data in Lara
 
 ## 📦 Installation
 
-Simply copy the function from the table.php file in the repository:  
+Simply copy the function from the table_helper.php file in the repository:  
 
 Place it inside your `app/helpers.php` file or any custom helper file you load in `composer.json`:
 
